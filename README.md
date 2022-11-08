@@ -4,5 +4,6 @@
   - animation.css
   - vuex
   - router
-  - vue-video-player
+  - vue-core-video-player
   - vue-baberrage
+  - timers-browserify
